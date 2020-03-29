@@ -1,0 +1,1 @@
+{love=2, a=1, coding=1, student=1, michelle=2, i=4, ha=2, hate=1, am=1, good=1, great=1}
